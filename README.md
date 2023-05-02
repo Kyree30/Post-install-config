@@ -26,10 +26,10 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/e1UNFHS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/lpDnu8g.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-<p>
+<p><b>
 (Configure Roles)
 Admin Panel -> Agents -> Roles
-Supreme Admin
+  Supreme Admin</b>
 </p>
 <br />
 
@@ -56,6 +56,7 @@ Level I Support
 Level II Support
 </p>
 <br />
+
 <br>
 <p>
 <img src="https://i.imgur.com/AU4IJFr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
