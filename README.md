@@ -73,10 +73,9 @@ Admin Panel -> Settings -> User Settings
 </p>
 <p><b>
 Configure Agents (workers)
-  Admin Panel -> Agents -> Add New</b>
+  Admin Panel -> Agents -> Add New
 Jane
-John
-
+John</b>
 </p>
 <br />
 
